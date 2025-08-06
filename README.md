@@ -35,8 +35,10 @@
 
 ### 🚀 Projets en vedette
 
-- [🌐 Mon portfolio](https://baptisteaussant.com/){:target="_blank"}
-- [🎧 MidWave](https://www.midwave.fr/){:target="_blank"}
+<ul>
+  <li><a href="https://baptisteaussant.com/" target="_blank">🌐 Mon portfolio</a></li>
+  <li><a href="https://www.midwave.fr/" target="_blank">🎧 MidWave</a></li>
+</ul>
 
 ---
 
