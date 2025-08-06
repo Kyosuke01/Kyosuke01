@@ -33,9 +33,9 @@
 
 ---
 
-<p style="display: block; margin: 0 auto;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyosuke01&theme=tokyonight" />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyosuke01&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyosuke01&theme=tokyonight" />
 </p>
 
 <p align="center">
