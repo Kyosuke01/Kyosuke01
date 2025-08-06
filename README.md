@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -39,24 +39,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyosuke01&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=dracula" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=synthwave" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=synthwave" alt="GitHub Streak" />
 </p>
 
 <p align="center">
