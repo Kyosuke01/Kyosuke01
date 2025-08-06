@@ -9,6 +9,7 @@
   </a>
   <a href="https://www.linkedin.com/in/baptiste-aussant-7033b2259/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-aussant-7033b2259/)
   </a>
 </p>
 
