@@ -25,7 +25,7 @@
 
 ### 📊 Mes stats GitHub
 
-<p align="center" style="text-align: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=radical" alt="GitHub Streak" />
@@ -33,7 +33,7 @@
 
 ---
 
-<p align="center">
+<p style="display: flex; justify-content: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyosuke01&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyosuke01&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
