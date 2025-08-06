@@ -34,6 +34,14 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyosuke01&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyosuke01&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=dracula" alt="GitHub Streak" />
@@ -67,18 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=blue-green" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=blue-green" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyosuke01&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyosuke01&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/kyosuke01/kyosuke01/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
