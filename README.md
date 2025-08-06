@@ -46,7 +46,3 @@
   <li><a href="https://baptisteaussant.com/">🌐 Mon portfolio</a></li>
   <li><a href="https://www.midwave.fr/">🎧 MidWave</a></li>
 </ul>
-
----
-
-> *Merci de visiter mon profil ! N’hésitez pas à me suivre pour plus de projets open source ❤️*
