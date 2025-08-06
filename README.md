@@ -22,21 +22,6 @@
 
 ---
 
-### 🔐 Cybersécurité
-
-💻 Je m'intéresse particulièrement à la cybersécurité : analyse de vulnérabilités, CTFs, pentests et automatisation d’audits de sécurité.
-
-<p align="center">
-  <a href="https://tryhackme.com/p/Ky0">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box">
-  </a>
-</p>
-
----
-
 ### 📊 Mes stats GitHub
 
 <p align="center">
