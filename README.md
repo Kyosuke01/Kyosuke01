@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, moi c'est Kyo</h1>
+<h3 align="center">Développeur passionné en cybersécurité</h3>
 
-<!--
-**Kyosuke01/Kyosuke01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="[Portfolio](https://baptisteaussant.com/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:aussantbaptistepro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="[LinkedIn](https://www.linkedin.com/in/baptiste-aussant-7033b2259/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Langages & Outils
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 📊 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Projets en vedette
+
+- [🌐 Mon portfolio](https://baptisteaussant.com/)
+- [🎧 MidWave](https://www.midwave.fr/)
+
+---
+
+> *Merci de visiter mon profil ! N’hésitez pas à me suivre pour plus de projets open source ❤️*
+
