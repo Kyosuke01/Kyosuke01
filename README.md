@@ -25,7 +25,7 @@
 
 ### 📊 Mes stats GitHub
 
-<p align="center">
+<p align="center" style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=radical" alt="GitHub Streak" />
