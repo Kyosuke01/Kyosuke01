@@ -1,4 +1,3 @@
-<h1 align="center">Salut 👋, moi c'est Kyo</h1>
 <h3 align="center">Développeur passionné en cybersécurité</h3>
 
 <p align="center">
