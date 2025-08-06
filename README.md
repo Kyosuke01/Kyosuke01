@@ -27,7 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=blue-green" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=github-dark" alt="GitHub Streak" />
 </p>
 
