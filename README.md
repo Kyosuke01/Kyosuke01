@@ -23,8 +23,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
-<br>
-
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat&logo=burpsuite&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![Stormshield](https://img.shields.io/badge/Stormshield-0076A8?style=flat&logoColor=white)
