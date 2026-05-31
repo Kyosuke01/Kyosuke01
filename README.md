@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Baptiste%20Aussant&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%26%20Developer&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Baptiste%20Aussant&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20--%20Developer&descAlignY=55&descSize=20)
 
 <p align="center">
   <a href="https://baptisteaussant.com/">
@@ -62,12 +62,12 @@
 ## 📊 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=github_dark&border_radius=10&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=kyosuke01&theme=github-dark&hide_border=true&border_radius=10" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyosuke01&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyosuke01&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
