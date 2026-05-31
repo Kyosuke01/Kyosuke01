@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Baptiste%20Aussant&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%26%20Developer&descAlignY=55&descSize=20" width="100%" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Baptiste%20Aussant&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%26%20Developer&descAlignY=55&descSize=20)
 
 <p align="center">
   <a href="https://baptisteaussant.com/">
@@ -65,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyosuke01&show_icons=true&theme=github_dark&border_radius=10&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyosuke01&theme=github-dark&hide_border=true&border_radius=10" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kyosuke01&theme=github-dark&hide_border=true&border_radius=10" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -96,6 +94,4 @@
   <img src="https://komarev.com/ghpvc/?username=kyosuke01&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%" />
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
